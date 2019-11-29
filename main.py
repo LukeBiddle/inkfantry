@@ -10,6 +10,9 @@ import math
 # from kivy.core.audio import SoundLoader
 import random
 
+from kivy.config import Config
+Config.set('input', 'mouse', 'mouse,multitouch_on_demand')
+
 MOVE_SPEED = 10
 BULLET_SPEED = 30
 ENEMY_SPEED = 4
