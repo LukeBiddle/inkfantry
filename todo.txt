@@ -1,0 +1,3 @@
+Get them moving towards the character
+Make bounds for spawning and walking
+Do damages
